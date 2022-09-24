@@ -1,0 +1,5 @@
+n = int(input())
+m = int(input())
+n = 543
+m = 130
+print(n//m)
